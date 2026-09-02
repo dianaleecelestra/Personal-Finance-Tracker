@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dayana\\Documents\\Project\\Personal Finance Tracker\\Personal Finance Tracker.csproj": {}
+    "C:\\Users\\xyfol\\Personal-Finance-Tracker\\Personal Finance Tracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dayana\\Documents\\Project\\Personal Finance Tracker\\Personal Finance Tracker.csproj": {
+    "C:\\Users\\xyfol\\Personal-Finance-Tracker\\Personal Finance Tracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dayana\\Documents\\Project\\Personal Finance Tracker\\Personal Finance Tracker.csproj",
+        "projectUniqueName": "C:\\Users\\xyfol\\Personal-Finance-Tracker\\Personal Finance Tracker.csproj",
         "projectName": "Personal Finance Tracker",
-        "projectPath": "C:\\Users\\dayana\\Documents\\Project\\Personal Finance Tracker\\Personal Finance Tracker.csproj",
-        "packagesPath": "C:\\Users\\dayana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dayana\\Documents\\Project\\Personal Finance Tracker\\obj\\",
+        "projectPath": "C:\\Users\\xyfol\\Personal-Finance-Tracker\\Personal Finance Tracker.csproj",
+        "packagesPath": "C:\\Users\\xyfol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xyfol\\Personal-Finance-Tracker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dayana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\xyfol\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0-windows"
